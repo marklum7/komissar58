@@ -1,0 +1,6 @@
+# Разрешить всем роботам доступ ко всему сайту
+User-agent: *
+Disallow:
+
+# Указать местоположение файла sitemap
+Sitemap: https://www.example.com/sitemap.xml
